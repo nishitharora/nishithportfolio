@@ -1,0 +1,93 @@
+[
+  {
+    "name": "Milk Yield Prediction and Optimization",
+    "desc": "Developed a model to forecast and optimize milk yield using Linear Programming.",
+    "image": "notystackandroid",
+    "category": "Machine Learning",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/nishitharora/project"
+    }
+  },
+  {
+    "name": "Trash Detection AI ",
+    "desc": "Developed a multi-object detection system using YOLOv5, Haar cascades, and MediaPipe with 94 % trash, face, and hand detection accuracy.",
+    "image": "sppuprepandroid",
+    "category": "Machine Learning",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/nishitharora/Trash_Detection"
+    }
+  },
+  {
+    "name": "Leaf Segmentation and counting",
+    "desc": "Designed a machine learning model using U-Net for segmenting rice leaves in images.",
+    "image": "newsboxandroid",
+    "category": "Machine Learning",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/nishitharora/icpr2024"
+    }
+  },
+  {
+    "name": "RAG",
+    "desc": "This project is a Question-Answering (QA) chatbot built using the Haystack framework. It answers natural language questions about nutrients based on a structured dataset. It uses a combination of FAISS for semantic search and a pre-trained language model for extractive QA.",
+    "image": "weatherlyandroid",
+    "category": "Machine Learning",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/nishitharora/chatbot_faiss"
+    }
+  },
+  
+  {
+    "name": "NLP",
+    "desc": "This project is a Question-Answering (QA) chatbot built using the Haystack framework. It answers natural language questions about nutrients based on a structured dataset. It uses a combination of FAISS for semantic search and a pre-trained language model for extractive QA.",
+    "image": "kiaweb",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/nishitharora/nlpchat"
+    }
+  },
+  {
+    "name": "OCR",
+    "desc": "Basic burger shop webpage allow users to check menu and price. Dummy Order Form.",
+    "image": "burgerweb",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "predictor",
+    "desc": "This project is a price predictor for a car based on its features. It uses a pre-trained model to predict the price of a car based on its specifications.",
+    "image": "templeweb",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "chatbot",
+    "desc": "This is a chatbit made using api of OpenAI. It allows users to chat with the bot and get responses based on the input provided.",
+    "image": "templeweb",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/nishitharora/chatbot"
+    }
+  },
+  {
+    "name": "Langchain",
+    "desc": "This is an langchain project that demonstrates how to use Langchain for building applications with large language models. It includes examples of how to use Langchain for various tasks such as text generation, summarization, and question answering.",
+    "image": "templeweb",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  }
+]
